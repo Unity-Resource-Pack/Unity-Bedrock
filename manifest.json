@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Experimental Beauty\n§r§bNow with more variants!",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Unity-1.16.X-Base-2.3.1",
+    "uuid": "4930c988-23be-40af-b6fe-03c43aba00de",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "Experimental Beauty\n§r§bNow with more variants!",
+      "type": "resources",
+      "uuid": "bf1664c0-4e56-4bdb-aac3-0ca643babffe",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
